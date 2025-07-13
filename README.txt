@@ -4,7 +4,8 @@
 
 Overview:
 
-This is a grade calculator app used in the 2024 AP Computer Science Principles Exam, where it recieved a 5 on Collegeboard.
+This is a grade calculator app used in the 2024 AP Computer Science Principles Exam, where it received a 5 on Collegeboard.
+Feel free to use this as an example.
 ---
 
 Features:
