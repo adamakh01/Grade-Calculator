@@ -1,9 +1,20 @@
 
-# README for Remix:  #
+# README for Grade Calculator: #
 
-This is the README file for the Remix:  app. It's a great place to write
-down some notes about how your app works. For starters, here is some information
-about the other files in this folder.
+
+Overview:
+
+This is a grade calculator app used in the 2024 AP Computer Science Principles Exam, where it recieved a 5 on Collegeboard.
+
+
+Features:
+
+* Add multiple classes in one instance.
+* Features weighted grading for Tests/Exams, Quizzes, and Homework (Weighting Not Adjustable)
+* Allows users to edit and delete already posted assignments. 
+* On main page, for the class chosen, it displays the calculated final grade using the weights 
+  as well as displays the weight percentages calculated from the assignments posted below.
+
 
 The files in this folder contain everything you need to run your app:
 
